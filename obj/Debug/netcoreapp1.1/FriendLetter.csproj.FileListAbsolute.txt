@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp1.1/FriendLetter.deps.json
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp1.1/FriendLetter.runtimeconfig.json
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp1.1/FriendLetter.runtimeconfig.dev.json
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp1.1/FriendLetter.dll
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp1.1/FriendLetter.pdb
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp1.1/FriendLetter.AssemblyInfo.cs
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp1.1/FriendLetter.dll
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp1.1/FriendLetter.pdb
